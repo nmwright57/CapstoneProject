@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ImagePickerView",
+        "repositoryURL": "https://github.com/rebeloper/ImagePickerView.git",
+        "state": {
+          "branch": null,
+          "revision": "8e72c67c10f23fe82235712fc6e1144cb8055363",
+          "version": "0.2.2"
+        }
+      },
+      {
+        "package": "RealmDatabase",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "33dd84212b64cd0788590a93be0dde64d2869abb",
+          "version": "11.14.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-swift",
+        "state": {
+          "branch": null,
+          "revision": "98024648651fff3d111a340e38fff3b703d1c3f0",
+          "version": "10.25.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
